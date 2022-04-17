@@ -1,0 +1,105 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+img{
+    width: 100px;
+    height: 70px;
+    margin: 5px;
+    border-style: solid;
+    border-width: 1px;
+}
+.ainstitucional{
+    width: 900px;
+    height: 70px;
+    background-color: rgb(47, 66, 174);
+    margin: 5px;
+    border-style: solid;
+    border-width: 1px;    
+}
+.central{
+    display: flex;
+    width: 1000px;
+    background-color: rgb(235, 225, 225);
+    margin: 0 auto;
+    margin-top: 5px;
+}
+.amenu{
+    width: 690px;
+    height: 70px;
+    background-color: rgb(61, 55, 55);
+    margin: 5px;
+    margin-top: 5px;
+    border-style: solid;
+    border-width: 1px;
+}
+.afecha{
+    width: 305px;
+    height: 70px;
+    background-color: rgb(133, 127, 127);
+    margin: 5px;
+    margin-top: 5px;
+    border-style: solid;
+    border-width: 1px;
+}
+.area{
+    width: 700px;
+    height: 425px;
+    background-color: rgb(233, 133, 66);
+    margin: 5px;
+    border-style: solid;
+    border-width: 1px;
+}
+.abusqueda{
+    width: 300px;
+    height: 100px;
+    background-color: rgb(73, 143, 33);
+    margin: 5px;
+    border-style: solid;
+    border-width: 1px;
+}
+.anoticias{
+    width: 300px;
+    height: 150px;
+    background-color: rgb(183, 71, 158);
+    margin: 5px;
+    margin-top: 10px;
+    border-style: solid;
+    border-width: 1px;
+}
+.aeventos{
+    width: 300px;
+    height: 150px;
+    background-color: rgb(93, 17, 95);
+    margin: 5px; 
+    margin-top: 10px;
+    border-style: solid;
+    border-width: 1px;
+}
+footer{
+    width: 990px;
+    height: 70px;
+    background-color: rgb(41, 118, 141);
+    margin: 0 auto;
+    margin-top: 5px;
+    border-style: solid;
+    border-width: 1px;
+}
+h3{
+    font-size: 18px;
+    text-align: center;
+    position: relative;
+    color: rgb(212, 201, 201);
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+}
+h2{
+    font-size: 18px;
+    text-align: center;
+    position: relative;
+    color: rgb(15, 12, 12);
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+}
